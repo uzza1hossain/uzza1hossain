@@ -28,12 +28,11 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-
--   [Welcome to Jekyll!](https://uzza1hossain.github.io/blog/welcome-to-jekyll/)
--   [Post: Link](https://uzza1hossain.github.io/blog/post-link/)
--   [Post: Notice](https://uzza1hossain.github.io/blog/post-notice/)
--   [Post: Quote](https://uzza1hossain.github.io/blog/post-quote/)
--   [Post: Chat](https://uzza1hossain.github.io/blog/post-chat/)
+- [Welcome to Jekyll!](https://uzza1hossain.github.io/blog/welcome-to-jekyll/)
+- [Post: Link](https://uzza1hossain.github.io/blog/post-link/)
+- [Post: Notice](https://uzza1hossain.github.io/blog/post-notice/)
+- [Post: Quote](https://uzza1hossain.github.io/blog/post-quote/)
+- [Post: Chat](https://uzza1hossain.github.io/blog/post-chat/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
