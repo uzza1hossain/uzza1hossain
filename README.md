@@ -52,4 +52,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uzza1hossain&layout=compact)](https://github.com/uzza1hossain)
 
-<!-- [![Uzzal's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=uzzal)](https://github.com/uzza1hossain/) -->
+![GitHub Snake Light](https://github.com/uzza1hossain/uzza1hossain/blob/output/github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](https://github.com/uzza1hossain/uzza1hossain/blob/output/github-snake-dark.svg#gh-dark-mode-only)
+
