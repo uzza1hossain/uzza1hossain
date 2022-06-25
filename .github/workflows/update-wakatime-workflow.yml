@@ -1,5 +1,4 @@
 name: Wakatime Charts
-BRANCH_NAME: main
 
 on:
     workflow_dispatch:
@@ -16,4 +15,5 @@ jobs:
             - uses: divykj/wakatime-charts@master
               with:
                   WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+                  BRANCH_NAME: main
                   #GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # only required if using the action in repository other than profile
