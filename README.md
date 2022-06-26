@@ -11,28 +11,33 @@
 
 -   👯 I’m looking to collaborate on **any Django related project**
 
--   👨‍💻 All of my projects are available at [https://uzza1hossain.github.io/](https://uzza1hossain.github.io/)
+-   👨‍💻 Checkout my featured <a href="https://uzzal.dev/projects/" target="_blank">**Projects**</a>
+<!-- -   👨‍💻 All of my projects are available at [https://uzzal.dev/projects/](https://uzzal.dev/projects/) -->
 
--   📝 I regularly write articles on [https://uzza1hossain.github.io/](https://uzza1hossain.github.io/)
+-   📝 I regularly write articles on my <a href="https://uzzal.dev/blog/" target="_blank">**Blog**</a>
+<!-- [**Blog**](https://uzzal.dev/blog/) -->
 
 -   💬 Ask me about **Python, Django**
 
--   📫 How to reach me **example@email.com**
+-   📫 How to reach me [**hello@uzzal.dev**](mailto:hello@uzzal.dev)
+<!-- -   📫 How to reach me **hello@uzzal.dev** -->
 
--   📄 Know about my experiences [https://uzza1hossain.github.io/](https://uzza1hossain.github.io/)
+-   📄 Download my [**Resume**](https://uzza1hossain.github.io/)
 
--   ⚡ Fun fact <!--STARTS_HERE_QUOTE_README-->
-<i>❝Konrad Zuse is the inventor of the first programmable computer in the world. He did it in 1936 and named the computer as Z1. Konrad Zuse❞</i>
-<!--ENDS_HERE_QUOTE_README-->
+-   ⚡ Fun fact
+    <!--STARTS_HERE_QUOTE_README-->
+    <i>❝Konrad Zuse is the inventor of the first programmable computer in the world. He did it in 1936 and named the computer as Z1. Konrad Zuse❞</i>
+    <!--ENDS_HERE_QUOTE_README-->
 
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Welcome to Jekyll!](https://uzza1hossain.github.io/blog/welcome-to-jekyll/)
-- [Post: Link](https://uzza1hossain.github.io/blog/post-link/)
-- [Post: Notice](https://uzza1hossain.github.io/blog/post-notice/)
-- [Post: Quote](https://uzza1hossain.github.io/blog/post-quote/)
-- [Post: Chat](https://uzza1hossain.github.io/blog/post-chat/)
+
+-   [Welcome to Jekyll!](https://uzza1hossain.github.io/blog/welcome-to-jekyll/)
+-   [Post: Link](https://uzza1hossain.github.io/blog/post-link/)
+-   [Post: Notice](https://uzza1hossain.github.io/blog/post-notice/)
+-   [Post: Quote](https://uzza1hossain.github.io/blog/post-quote/)
+-   [Post: Chat](https://uzza1hossain.github.io/blog/post-chat/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
@@ -54,4 +59,3 @@
 
 ![GitHub Snake Light](https://github.com/uzza1hossain/uzza1hossain/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake dark](https://github.com/uzza1hossain/uzza1hossain/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
