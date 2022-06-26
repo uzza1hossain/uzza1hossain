@@ -28,11 +28,11 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Welcome to Jekyll!](https://uzza1hossain.github.io/blog/welcome-to-jekyll/)
-- [Post: Link](https://uzza1hossain.github.io/blog/post-link/)
-- [Post: Notice](https://uzza1hossain.github.io/blog/post-notice/)
-- [Post: Quote](https://uzza1hossain.github.io/blog/post-quote/)
-- [Post: Chat](https://uzza1hossain.github.io/blog/post-chat/)
+- [This is a title for tag](https://uzza1hossain.github.io/blog/admin-testing/jekyll/this-is-a-title-for-tag/)
+- [This is a title](https://uzza1hossain.github.io/blog/this-is-a-title/)
+- [Post: Link](https://uzza1hossain.github.io/blog/cat/post-link/)
+- [Welcome to Jekyll!](https://uzza1hossain.github.io/blog/test/welcome-to-jekyll/)
+- [Post: Notice](https://uzza1hossain.github.io/blog/notice/post-notice/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
