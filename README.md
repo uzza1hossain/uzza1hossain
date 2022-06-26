@@ -24,20 +24,18 @@
 
 -   📄 Download my [**Resume**](https://uzza1hossain.github.io/)
 
--   ⚡ Fun fact
-    <!--STARTS_HERE_QUOTE_README-->
-    <i>❝Konrad Zuse is the inventor of the first programmable computer in the world. He did it in 1936 and named the computer as Z1. Konrad Zuse❞</i>
-    <!--ENDS_HERE_QUOTE_README-->
+-   ⚡ Fun fact <!--STARTS_HERE_QUOTE_README-->
+<i>❝“In a software project team of 10, there are probably 3 people who produce enough defects to make them net negative producers.”— Gordon Schulmeyer   ❞</i>
+<!--ENDS_HERE_QUOTE_README-->
 
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-
--   [Welcome to Jekyll!](https://uzza1hossain.github.io/blog/welcome-to-jekyll/)
--   [Post: Link](https://uzza1hossain.github.io/blog/post-link/)
--   [Post: Notice](https://uzza1hossain.github.io/blog/post-notice/)
--   [Post: Quote](https://uzza1hossain.github.io/blog/post-quote/)
--   [Post: Chat](https://uzza1hossain.github.io/blog/post-chat/)
+- [This is a title for tag](https://uzza1hossain.github.io/blog/admin-testing/jekyll/this-is-a-title-for-tag/)
+- [This is a title](https://uzza1hossain.github.io/blog/this-is-a-title/)
+- [Post: Link](https://uzza1hossain.github.io/blog/cat/post-link/)
+- [Welcome to Jekyll!](https://uzza1hossain.github.io/blog/test/welcome-to-jekyll/)
+- [Post: Notice](https://uzza1hossain.github.io/blog/notice/post-notice/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
