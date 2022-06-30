@@ -31,11 +31,11 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [On this page testing](https://github.com/pages/uzza1hossain/blog/on-this-page-testing/)
-- [gist test](https://github.com/pages/uzza1hossain/blog/gist-test/)
-- [new tag testing](https://github.com/pages/uzza1hossain/blog/new-tag-testing/)
-- [This is a title for tag](https://github.com/pages/uzza1hossain/blog/this-is-a-title-for-tag/)
-- [This is a title](https://github.com/pages/uzza1hossain/blog/this-is-a-title/)
+- [On this page testing](https://www.uzzal.dev/blog/on-this-page-testing/)
+- [gist test](https://www.uzzal.dev/blog/gist-test/)
+- [new tag testing](https://www.uzzal.dev/blog/new-tag-testing/)
+- [This is a title for tag](https://www.uzzal.dev/blog/this-is-a-title-for-tag/)
+- [This is a title](https://www.uzzal.dev/blog/this-is-a-title/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
