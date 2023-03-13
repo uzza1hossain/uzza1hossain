@@ -25,7 +25,7 @@
 -   📄 Download my [**Resume**](https://uzza1hossain.github.io/)
 
 -   ⚡ Fun fact <!--STARTS_HERE_QUOTE_README-->
-<i>❝The password for the computer controls of nuclear-tipped missiles of the U.S was 00000000 for eight years.❞</i>
+<i>❝“If you think your users are idiots, only idiots will use it.”— Linus Torvalds   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 # Blog posts
