@@ -25,7 +25,7 @@
 -   📄 Download my [**Resume**](https://uzza1hossain.github.io/)
 
 -   ⚡ Fun fact <!--STARTS_HERE_QUOTE_README-->
-<i>❝“It is easier to change the specification to fit the program than vice versa.”— Alan Perlis   ❞</i>
+<i>❝“If you think technology can solve your security problems, then you don’t understand the problems and you don’t understand the technology.”— Bruce Schneier  ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 # Blog posts
