@@ -25,7 +25,7 @@
 -   📄 Download my [**Resume**](https://uzza1hossain.github.io/)
 
 -   ⚡ Fun fact <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Computer viruses are an urban legend.”— Peter Norton, 1988   ❞</i>
+<i>❝“Don’t document the problem, fix it.”— Atli Björgvin Oddsson   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 # Blog posts
