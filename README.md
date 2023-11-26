@@ -25,7 +25,7 @@
 -   📄 Download my [**Resume**](https://uzza1hossain.github.io/)
 
 -   ⚡ Fun fact <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Perl: The only language that looks the same before and after RSA encryption.”— Keith Bostic   ❞</i>
+<i>❝“Simplicity, carried to the extreme, becomes elegance.”— Jon Franklin   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 # Blog posts
