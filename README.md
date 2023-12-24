@@ -25,7 +25,7 @@
 -   📄 Download my [**Resume**](https://uzza1hossain.github.io/)
 
 -   ⚡ Fun fact <!--STARTS_HERE_QUOTE_README-->
-<i>❝Gaming computers heat a room just as efficiently as a space heater does.❞</i>
+<i>❝“If the code and the comments do not match, possibly both are incorrect.”— Norm Schryer   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 # Blog posts
