@@ -25,7 +25,7 @@
 -   📄 Download my [**Resume**](https://uzza1hossain.github.io/)
 
 -   ⚡ Fun fact <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Before man reaches the moon, mail will be delivered within hours from New York to California, to Britain, to India or Australia.”— Arthur Summerfield, 1959, United States Post❞</i>
+<i>❝IBM 5120 from 1980 was the heaviest desktop computer ever made. It weighed about 105 pounds, not including the 130 pounds external floppy drive.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 # Blog posts
