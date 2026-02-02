@@ -25,7 +25,7 @@
 -   📄 Download my [**Resume**](https://uzza1hossain.github.io/)
 
 -   ⚡ Fun fact <!--STARTS_HERE_QUOTE_README-->
-<i>❝“In the future, computers may weigh no more than 1.5 tonnes.”— Popular mechanics, 1949   ❞</i>
+<i>❝“Data levels all arguments.”— Anthony W. Richardson❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 # Blog posts
