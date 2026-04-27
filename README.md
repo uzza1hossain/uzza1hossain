@@ -25,7 +25,7 @@
 -   📄 Download my [**Resume**](https://uzza1hossain.github.io/)
 
 -   ⚡ Fun fact <!--STARTS_HERE_QUOTE_README-->
-<i>❝If you open up the case of the original Macintosh, there are 47 signatures there, which are from each member of Apple’s Macintosh division in Interesting?❞</i>
+<i>❝“Program testing can be a very effective way to show the presence of bugs, but is hopelessly inadequate for showing their absence.”— Edsger Dijkstra   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 # Blog posts
