@@ -25,7 +25,7 @@
 -   📄 Download my [**Resume**](https://uzza1hossain.github.io/)
 
 -   ⚡ Fun fact <!--STARTS_HERE_QUOTE_README-->
-<i>❝“UNIX is simple.  It just takes a genius to understand its simplicity.”— Dennis Ritchie   ❞</i>
+<i>❝“Some people, when confronted with a problem, think ‘I know, I’ll use regular expressions.’  Now they have two problems.”— Jamie Zawinski   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 # Blog posts
